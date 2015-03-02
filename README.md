@@ -2,7 +2,7 @@
 
 2nd place submission to the AutoML competition - phase 1
 
-An reduced implementation of freeze thaw Bayesian optimization
+A reduced implementation of freeze thaw Bayesian optimization
 
 Swersky, K., Snoek, J. & Adams, R. P. Freeze-Thaw Bayesian Optimization. arXiv preprint 1406.3896 (2014). at <http://arxiv.org/abs/1406.3896>
 
